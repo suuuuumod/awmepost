@@ -5,7 +5,7 @@ This bot do:
  - filter out posts that were already published
  - reformat posts data chunk into list of convenient objects
  - filter posts by tags, scores, etc
- - format and publish posts into separate channels ([imgur and reddit](https://t.me/awmepost),
+ - format and publish posts into separate channels ([see imgur and reddit](https://t.me/awmepost))
  - schedule next fetch-filter-publish 
  
 Another features:
