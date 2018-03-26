@@ -1,6 +1,5 @@
 import logging
 
-
 def set_up_logging(debug):
     if debug:
         logging_level = logging.DEBUG
