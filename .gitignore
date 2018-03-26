@@ -1,0 +1,7 @@
+__pycache__/
+.idea
+.env
+*.png
+playground.py
+.python-version
+.memes-reposter

@@ -1,0 +1,34 @@
+import os
+
+DEBUG="false"
+
+
+
+# telegram
+BOT_TOKEN="500275322:AAHVNVHR411P2n91aTcq83ZbGaavP15hbCs"
+TEST_CHANNEL_ID="@awmepost"
+
+# reddit
+REDDIT_CHANNEL_ID = 'CHANNEL_REDDIT'
+REDDIT_USERNAME="suuuuumod"
+
+
+# imgur
+IMGUR_CLIENT_ID="1698e74c52bf0d1"
+IMGUR_CHANNEL_ID = 'CHANNEL_IMGUR'
+
+
+# heroku
+HEROKU_APP_NAME="awmeposhttps://awmepost.herokuapp.com/t"
+PORT=5000
+HOST="0.0.0.0"
+
+# database
+MONGO_URI ="mongodb://admin:admin@ds259268.mlab.com:59268/heroku_54fs7dr1"
+CLEAR_AGE = eval('2 * 24 * 60 * 60')
+CLEAR_INTERVAL = eval('2 * 24 * 60 * 60')
+
+
+# misc
+ADMINS=[462198160]
+FETCH_LIMIT=10
