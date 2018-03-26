@@ -1,5 +1,15 @@
 # awmepost
 
+Install:
+1. pip intsall -r requirements.txt
+2. edit settings/__int__.py (TOKEN, CLIENT ID reddit and imgur, MongoDB connect, Admins)
+3. start index.py
+
+Heroku:
+1. Just create app. (For mongo connect, use addons mLab MongoDB)
+2. edit settings/__int__.py (TOKEN, CLIENT ID reddit and imgur, MongoDB connect, Admins)
+3. deploy
+
 This bot do:
  - fetch data from reddit and imgur
  - filter out posts that were already published
