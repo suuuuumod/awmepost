@@ -1,11 +1,11 @@
-# memes-reposter
+# awmepost
 
 This bot do:
  - fetch data from reddit and imgur
  - filter out posts that were already published
  - reformat posts data chunk into list of convenient objects
  - filter posts by tags, scores, etc
- - format and publish posts into separate channels ([for imgur](https://t.me/telemgur), [for reddit](https://t.me/pop_reddit))
+ - format and publish posts into separate channels ([imgur and reddit](https://t.me/awmepost),
  - schedule next fetch-filter-publish 
  
 Another features:
